@@ -1,3 +1,5 @@
+# (c) David Cunningham 2011, Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+
 TARGETS=HiFreqNoiseRing.64.bmp HiFreqNoiseDisc.64.bmp HiFreqNoiseGauss.64.bmp WhiteNoiseRing.64.bmp WhiteNoiseDisc.64.bmp WhiteNoiseGauss.64.bmp HiFreqNoiseRing.32.bmp HiFreqNoiseDisc.32.bmp HiFreqNoiseGauss.32.bmp WhiteNoiseRing.32.bmp WhiteNoiseDisc.32.bmp WhiteNoiseGauss.32.bmp
 
 all: $(TARGETS)
